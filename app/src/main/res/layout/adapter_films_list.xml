@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/adapter_films_list_title"
+        style="@style/TextStyle_18SP_Bold_Dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/adapter_films_list_release_date"
+        style="@style/TextStyle_14SP_Italic_Dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/adapter_films_list_director"
+        style="@style/TextStyle_14SP_Normal_Dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/adapter_films_list_producer"
+        style="@style/TextStyle_14SP_Normal_Dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/adapter_films_list_rt_score"
+        style="@style/TextStyle_14SP_Normal_Dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/adapter_films_list_description"
+        style="@style/TextStyle_16SP_Normal_Dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

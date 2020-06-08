@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mAndroidCustomView</string>
+    <string name="director">Director: </string>
+    <string name="producer">Producer: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="rotten_tomatoes">Rotten Tomatoes: </string>
+    <string name="nodata_view_retry">No Data</string>
+</resources>
